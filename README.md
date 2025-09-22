@@ -33,22 +33,3 @@ The dashboard is interactive, automatically refreshed daily, and designed to hel
 ```DAX
 Total Sales = SUM('pharma-data'[Sales])
 
-## Business Insights
-Pharmacies contribute the majority of sales (~60%).
-Certain product classes drive most revenue → should receive higher investment.
-Top-performing countries generate significantly higher sales → expansion opportunities.
-Seasonal patterns observed in monthly sales → better inventory & campaign planning.
-Few sales reps drive majority of sales → need to train underperformers.
-
-## How to Use
-Download the .pbix file from this repository.
-Open it in Power BI Desktop.
-Explore interactive visuals, slicers, and filters.
-For automatic refresh → publish to Power BI Service and configure scheduled refresh.
-
-
-## Author
-Sahil Rajendra Palshetkar.
-Data Analyst | Power BI Enthusiast
-📧 Email: sahilpalshetkar8822@gmail.com
-🌐 LinkedIn: www.linkedin.com/in/sahil-palshetkar-473744280
